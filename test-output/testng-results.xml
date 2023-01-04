@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="25848" started-at="2023-01-04T08:09:23 IST" finished-at="2023-01-04T08:09:49 IST">
+  <suite name="Default suite" duration-ms="82536" started-at="2023-01-04T11:33:22 IST" finished-at="2023-01-04T11:34:44 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="25848" started-at="2023-01-04T08:09:23 IST" finished-at="2023-01-04T08:09:49 IST">
+    <test name="Default test" duration-ms="82536" started-at="2023-01-04T11:33:22 IST" finished-at="2023-01-04T11:34:44 IST">
       <class name="Task1Ferline">
-        <test-method status="PASS" signature="ferline()[pri:0, instance:Task1Ferline@30b8a058]" name="ferline" duration-ms="25788" started-at="2023-01-04T08:09:23 IST" finished-at="2023-01-04T08:09:49 IST">
+        <test-method status="PASS" signature="ferline()[pri:0, instance:Task1Ferline@30b8a058]" name="ferline" duration-ms="82494" started-at="2023-01-04T11:33:22 IST" finished-at="2023-01-04T11:34:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ferline -->
